@@ -4,7 +4,7 @@ Bu proje ile Linux terminalinden Zenity arayüzü ile yönetici veya kullanıcı
 ---
 
 ## Projenin Tanıtım Videosu ▶️
-- https://www.youtube.com/@chiramii8719
+- https://www.youtube.com/watch?v=HRTsbc7fM5k
 
 ---
 
