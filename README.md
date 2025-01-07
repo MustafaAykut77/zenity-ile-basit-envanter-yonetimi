@@ -8,6 +8,11 @@ Bu proje ile Linux terminalinden Zenity arayüzü ile yönetici veya kullanıcı
 
 ---
 
+## Projenin GitHub Linki
+- https://github.com/MustafaAykut77/zenity-ile-basit-envanter-yonetimi
+
+---
+
 ## Özellikler 🚀  
 - Zenity ile basit ve anlaşılır UI. 
 - Kullanıcıları ve ürünleri .csv uzantılı dosyaya kaydeden bir veritabanı.  
